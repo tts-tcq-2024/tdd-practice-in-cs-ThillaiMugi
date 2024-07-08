@@ -1,3 +1,6 @@
-int add(const char* input){
-  return -1;
+class StringCalculator{
+  
+public int add(const string input){
+  throw new NotImplementedExcepation();
+}
 }
