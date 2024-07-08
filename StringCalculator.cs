@@ -1,6 +1,6 @@
 class StringCalculator{
   
 public int Add(const string input){
-  throw new NotImplementedExcepation();
+  throw new NotImplementedException();
 }
 }
