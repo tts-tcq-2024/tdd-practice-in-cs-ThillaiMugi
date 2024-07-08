@@ -1,6 +1,6 @@
 class StringCalculator{
   
-public int add(const string input){
+public int Add(const string input){
   throw new NotImplementedExcepation();
 }
 }
